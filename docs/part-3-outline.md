@@ -198,7 +198,11 @@ One d12 table per region; entries are mixes of fights, non-hostiles, signs and h
 
 Erelhei-Cinlu sits in a vast cavern lit by a dim glow. Its noble houses compete constantly, and that rivalry is the party's best tool.
 
-*Lore note to confirm:* in the original Greyhawk material, Eclavdra and House Eilserv broke from Lolth's houses to serve the Elder Elemental God. If that holds here, Lolth's loyal houses have every reason to help strangers who mean Eclavdra harm, and no reason to admit it. **[DECIDE]** whether to keep this.
+**Eclavdra's power.** In this module Eclavdra is not serving the Elder Elemental God. She is working with **Illitharia**, an **Archfey of the Blooming Rot domain**. **[DECIDE]** Proposed: the rot on the surface was never only a fraud; it was Illitharia's domain reaching upward, with Eclavdra's paperwork as its road.
+
+A fey power at work in a city of Lolth's houses is a heresy the other houses would kill for, if they could prove it. That rivalry is still the party's best tool: Lolth's loyal houses have every reason to help strangers who mean Eclavdra harm, and no reason to admit it.
+
+**[DECIDE]** What the bond is: a warlock-style pact, an alliance between equals, or something Eclavdra believes she controls and doesn't. And whether the other houses already suspect.
 
 **[DECIDE] Entry.** Proposed: whatever approach the party used at Leg 6 sets their first standing in the city (slave, guest, or intruder), and each has its own route to House Eilserv.
 
@@ -215,7 +219,7 @@ The one face from Part 2. **[DECIDE]** his role; three options:
 The final battle of Part 3: **Eclavdra, in her own throne room.** Proposed shape:
 
 - A room built for her to win in: height, darkness, and guards who arrive in waves.
-- Lair-style effects tied to House Eilserv's god.
+- Lair-style effects drawn from Illitharia's domain: growth and rot in a stone room, bloom that heals her and spoils everything else.
 - What the party gathered on the way (the illithid tool, the svirfneblin, a rival house's help, Haskur) changes the odds in concrete, listed ways.
 
 **[DECIDE]** Proposed tuning target: a **deadly** fight for a level 12 party of five that has used none of its advantages, and a hard but winnable one with two or more.
@@ -255,7 +259,7 @@ Proposed pack layout, built from JSON sources like Part 2's:
 4. Where the party's map comes from.
 5. The Leg 5 drow patrol and the Leg 6 approaches into the city.
 6. The illithid city's danger and reward.
-7. Eclavdra and House Eilserv's god, and whether rival houses help.
+7. The nature of Eclavdra's bond with Illitharia, whether the rival houses suspect it, and whether they help.
 8. Haskur's role.
 9. The throne-room tuning target, and what victory means.
 10. When the party learns Eclavdra's name.
