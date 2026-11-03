@@ -18,6 +18,28 @@ Part 3 is a single descent through open Underdark: about **30 miles, roughly nor
 
 ---
 
+## Where This Sits: The Trial Run for GDQ
+
+**Blooming Rot is Eclavdra's trial run for the plan she later carries out in the GDQ series.** In *Against the Giants*, *Descent into the Depths of the Earth* and *Queen of the Demonweb Pits*, her house arms and directs the giants against the surface, supplies them through the Underdark, and nearly gets away with it. Blooming Rot is where she tests that method first, smaller and quieter, years earlier.
+
+What the trial run tests, and what it becomes in GDQ:
+
+| Blooming Rot (the rehearsal) | GDQ (the real thing) |
+|---|---|
+| Engineered crop collapse, panic priced in advance | Giant raids that destabilize the surface realms |
+| Surface proxies who never meet her (Cindren & Vhal, Haskur) | Giant chiefs who serve a drow they barely understand |
+| The administered route below *No Sail, No Road* | The Underdark supply line from the giants' holds to the Vault |
+| Illitharia's rot reaching upward | **[DECIDE]** Does Illitharia stand where the Elder Elemental God stands in GDQ, or does the alliance break before then? |
+
+What this means for Part 3:
+
+- **The party is breaking a rehearsal, not ending the war.** Whatever they win in the throne room, the plan survives in a larger form. The ending should make that land: they have taught her what to fix.
+- **Eclavdra must survive.** She is needed for GDQ. **[DECIDE]** Proposed: the party wins the throne-room battle and breaks the trial run, and Eclavdra escapes (true to her record in the original modules). A contingency, a fey door Illitharia opens for her, or a simulacrum on the throne are the candidate ways out.
+- **Seeds for GDQ** can be planted in the city: correspondence with the giants' holds, a giant envoy in House Eilserv's halls, a ledger of what the rehearsal cost and what the real plan will need. The party need not understand them; the GM should.
+- **Timeline:** Blooming Rot is set years before GDQ. **[DECIDE]** How many years, and whether this party could grow into the heroes who face GDQ, or the group that hands the problem on.
+
+---
+
 ## Pacing and Levels
 
 **[DECIDE] Levels.** Proposed: milestone levelling **9 → 12**.
@@ -224,7 +246,7 @@ The final battle of Part 3: **Eclavdra, in her own throne room.** Proposed shape
 
 **[DECIDE]** Proposed tuning target: a **deadly** fight for a level 12 party of five that has used none of its advantages, and a hard but winnable one with two or more.
 
-**[DECIDE]** What victory means: is Eclavdra killed, driven off, or exposed? This decides what Part 4 (if there is one) starts from.
+**Victory** means the trial run is broken and Eclavdra is driven out of her own throne room, not killed: she is needed for GDQ (see *Where This Sits*). **[DECIDE]** How she escapes.
 
 ---
 
@@ -261,6 +283,7 @@ Proposed pack layout, built from JSON sources like Part 2's:
 6. The illithid city's danger and reward.
 7. The nature of Eclavdra's bond with Illitharia, whether the rival houses suspect it, and whether they help.
 8. Haskur's role.
-9. The throne-room tuning target, and what victory means.
+9. The throne-room tuning target, and how Eclavdra escapes.
 10. When the party learns Eclavdra's name.
 11. Party size: five, or six with Cam's player?
+12. GDQ links: whether Illitharia takes the Elder Elemental God's place in GDQ, the time gap, and whether this party could become the GDQ heroes.
