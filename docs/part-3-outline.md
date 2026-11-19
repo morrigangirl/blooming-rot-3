@@ -224,7 +224,11 @@ Erelhei-Cinlu sits in a vast cavern lit by a dim glow. Its noble houses compete 
 
 A fey power at work in a city of Lolth's houses is a heresy the other houses would kill for, if they could prove it. That rivalry is still the party's best tool: Lolth's loyal houses have every reason to help strangers who mean Eclavdra harm, and no reason to admit it.
 
-**[DECIDE]** What the bond is: a warlock-style pact, an alliance between equals, or something Eclavdra believes she controls and doesn't. And whether the other houses already suspect.
+**The bond.** Eclavdra believes she controls her pact with Illitharia. She doesn't. The rehearsal is serving Illitharia's ends at least as much as hers, and the throne room is a good place for the party (and the GM) to see the difference.
+
+**Who suspects.** One minor house, **House Eelbrech**, with only a small home in the city and none of the major houses' weight, suspects Eclavdra is running strange experiments with rare Underdark fungi. They don't know the full extent: nothing of Illitharia, the pact, or the surface. That partial knowledge makes Eelbrech the party's most likely way in. They want proof, and the party is carrying some.
+
+**[DECIDE]** What Eelbrech has already seen, and what they'll trade for proof.
 
 **[DECIDE] Entry.** Proposed: whatever approach the party used at Leg 6 sets their first standing in the city (slave, guest, or intruder), and each has its own route to House Eilserv.
 
@@ -281,7 +285,7 @@ Proposed pack layout, built from JSON sources like Part 2's:
 4. Where the party's map comes from.
 5. The Leg 5 drow patrol and the Leg 6 approaches into the city.
 6. The illithid city's danger and reward.
-7. The nature of Eclavdra's bond with Illitharia, whether the rival houses suspect it, and whether they help.
+7. ~~The nature of Eclavdra's bond with Illitharia.~~ Decided: she thinks she controls the pact and doesn't; House Eelbrech suspects fungus experiments only. Still open: what Eelbrech has seen and what they'll trade.
 8. Haskur's role.
 9. The throne-room tuning target, and how Eclavdra escapes.
 10. When the party learns Eclavdra's name.
